@@ -1,0 +1,6 @@
+venv/
+.idea/
+
+# Output files
+ticktick-from-rtm.csv
+ticktick-from-simplenote.csv

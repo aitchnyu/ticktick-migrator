@@ -1,0 +1,32 @@
+﻿"Date: 2022-03-14+0000"
+"Version: 7.0"
+"Status:
+0 Normal
+1 Completed
+2 Archived"
+"Folder Name","List Name","Title","Tags","Content","Is Check list","Start Date","Due Date","Reminder","Repeat","Priority","Status","Created Time","Completed Time","Order","Timezone","Is All Day","Is Floating","Column Name","Column Order","View Mode","taskId","parentId"
+"","Notes","Another note","","Content","N","","","","","0","0","2022-03-14T19:31:02+0000","","-2199023255552","Asia/Calcutta",,"false",,,"list","1",""
+"","Notes","One note","","Content of note","N","","","","","0","0","2022-03-14T19:30:34+0000","","-1099511627776","Asia/Calcutta",,"false",,,"list","2",""
+"","Tasks","Task 3","","","N","2022-03-28T18:30:00+0000","2022-03-28T18:30:00+0000","","FREQ=WEEKLY;INTERVAL=2;WKST=SU","0","0","2022-03-14T19:34:59+0000","","-3298534883328","Asia/Calcutta","true","false",,,"list","3",""
+"","Tasks","Task 3","","","N","2022-03-14T18:30:00+0000","2022-03-14T18:30:00+0000","","","0","2","2022-03-14T19:34:59+0000","2022-03-14T19:35:03+0000","-3298534883328","Asia/Calcutta","true","false",,,"list","4",""
+"","Tasks","Task 2","","","N","","","","","0","0","2022-03-14T19:31:43+0000","","-2199023255552","Asia/Calcutta",,"false",,,"list","5",""
+"","Tasks","Task 1 tomorrow","","Description","N","2022-03-16T18:30:00+0000","2022-03-16T18:30:00+0000","","FREQ=DAILY;INTERVAL=1","0","0","2022-03-14T19:31:25+0000","","-1099511627776","Asia/Calcutta","true","false",,,"list","6",""
+"","Tasks","Task 1 tomorrow","","Description","N","2022-03-15T18:30:00+0000","2022-03-15T18:30:00+0000","","","0","2","2022-03-14T19:31:25+0000","2022-03-14T19:33:21+0000","-1099511627776","Asia/Calcutta","true","false",,,"list","7",""
+"","Tasks","Task 1 tomorrow","","Description","N","2022-03-14T18:30:00+0000","2022-03-14T18:30:00+0000","","","0","2","2022-03-14T19:31:25+0000","2022-03-14T19:33:12+0000","-1099511627776","Asia/Calcutta","true","false",,,"list","8",""
+"","Inbox","Go next Thursday","","","N","2022-03-16T18:30:00+0000","2022-03-16T18:30:00+0000","","","0","0","2022-03-10T07:24:06+0000","","-2748779069440","Asia/Kolkata","true","false",,,"list","9",""
+"","Inbox","Haha","","▫
+","Y","2021-10-01T18:30:00+0000","2021-10-01T18:30:00+0000","","","5","0","2021-10-02T16:37:04+0000","","-2473901162496","Asia/Kolkata","true","false",,,"list","10",""
+"","Inbox","Jdjen","","","N","2021-09-24T18:30:00+0000","2021-09-24T18:30:00+0000","","","0","0","2021-09-22T18:45:48+0000","","-2199023255552","Asia/Kolkata","true","false",,,"list","11",""
+"","Inbox","Nsnsn","","","N","2021-10-13T18:30:00+0000","2021-10-13T18:30:00+0000","","","1","0","2021-09-22T18:44:51+0000","","-1924145348608","Asia/Kolkata","true","false",,,"list","12",""
+"","Inbox","Foo","","","N","2021-09-22T18:30:00+0000","2021-09-22T18:30:00+0000","","FREQ=YEARLY;INTERVAL=1","0","0","2021-09-22T18:44:43+0000","","-1649267441664","Asia/Kolkata","true","false",,,"list","13",""
+"","Inbox","Foo","","▫
+","Y","","","","","0","-1","2021-09-22T18:42:37+0000","2021-09-22T18:44:07+0000","-1374389534720","Asia/Kolkata","false","false",,,"list","14",""
+"","Inbox","Welcome to TickTick","","You have joined the hundreds of thousands of others who are using TickTick to make life easier. TickTick lets you keep track of your tasks, draw up a schedule, and share projects with anyone around you.
+TickTick currently supports a number of operating system platforms including iPhone, iPad, Mac App, Windows, Apple Watch, Android phone, Android Wear, Web, Chrome Extension, Chrome App, and Firefox Extension. With these 10 platforms, we believe TickTick can always help you achieve more everyday! ","N","","","","","0","2","2021-09-07T07:03:48+0000","2021-10-02T16:39:07+0000","-1099511627776","Asia/Kolkata","false","false",,,"list","15",""
+"","Inbox","What can you do with TickTick? ","","▫Collaborate on shared lists with your family, friends, and colleagues. 
+▪Make check items within tasks.
+▫Use folder, list, priority, and tag to make tasks more organized. 
+▪Subscribe third-party calendars. 
+▫Set flexible repeating intervals for recurring tasks. 
+▫Add tasks and reminder. Never lose track of your to-do list. 
+","Y","","","","","0","0","2021-09-07T07:03:48+0000","","2199023255552","Asia/Kolkata","false","false",,,"list","16",""
